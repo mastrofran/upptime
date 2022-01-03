@@ -22,19 +22,19 @@
     "url": "https://francescomastrocinque.com",
     "icon": "https://favicons.githubusercontent.com/francescomastrocinque.com",
     "slug": "francesco-portfolio",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 653,
     "timeDay": 3460,
     "timeWeek": 1041,
     "timeMonth": 653,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2022-01-03": 13
+      "2022-01-03": 0
     }
   }
 ]
