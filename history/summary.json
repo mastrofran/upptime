@@ -4,19 +4,19 @@
     "url": "https://chemguides.com",
     "icon": "https://favicons.githubusercontent.com/chemguides.com",
     "slug": "chemguides",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 326,
-    "timeWeek": 218,
-    "timeMonth": 200,
-    "timeYear": 186,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 185,
+    "timeDay": 267,
+    "timeWeek": 210,
+    "timeMonth": 199,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2022-02-11": 0
+      "2022-02-11": 6
     }
   },
   {
