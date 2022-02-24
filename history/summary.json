@@ -4,7 +4,7 @@
     "url": "https://chemguides.com",
     "icon": "https://favicons.githubusercontent.com/chemguides.com",
     "slug": "chemguides",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 275,
     "timeMonth": 207,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   },
   {
     "name": "Francesco Portfolio",
