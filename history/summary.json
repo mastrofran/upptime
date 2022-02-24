@@ -4,17 +4,17 @@
     "url": "https://chemguides.com",
     "icon": "https://favicons.githubusercontent.com/chemguides.com",
     "slug": "chemguides",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.02%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 202,
-    "timeDay": 740,
-    "timeWeek": 370,
-    "timeMonth": 232,
-    "timeYear": 202,
+    "time": 272,
+    "timeDay": 2192,
+    "timeWeek": 895,
+    "timeMonth": 371,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2022-02-24": 29
     }
