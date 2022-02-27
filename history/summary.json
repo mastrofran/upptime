@@ -10,11 +10,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 272,
-    "timeDay": 471,
-    "timeWeek": 824,
+    "time": 270,
+    "timeDay": 135,
+    "timeWeek": 825,
     "timeMonth": 365,
-    "timeYear": 272,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2022-02-24": 29
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/francescomastrocinque.com",
     "slug": "francesco-portfolio",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 609,
-    "timeDay": 341,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 609,
+    "uptimeYear": "99.91%",
+    "time": 604,
+    "timeDay": 244,
+    "timeWeek": 253,
+    "timeMonth": 244,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2022-01-22": 87
     }
