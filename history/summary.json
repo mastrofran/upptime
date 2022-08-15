@@ -27,9 +27,9 @@
     "url": "https://francescomastrocinque.com",
     "icon": "https://favicons.githubusercontent.com/francescomastrocinque.com",
     "slug": "francesco-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -39,6 +39,7 @@
     "timeMonth": 541,
     "timeYear": 403,
     "dailyMinutesDown": {
+      "2022-08-15": 0,
       "2022-04-25": 104,
       "2022-01-22": 87
     }
