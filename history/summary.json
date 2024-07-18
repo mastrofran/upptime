@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 165,
-    "timeWeek": 306,
-    "timeMonth": 261,
-    "timeYear": 302,
+    "time": 294,
+    "timeDay": 479,
+    "timeWeek": 359,
+    "timeMonth": 272,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2023-09-24": 23
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/francescomastrocinque.com.ico",
     "slug": "francesco-portfolio",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 40,
-    "timeWeek": 103,
-    "timeMonth": 90,
+    "timeDay": 92,
+    "timeWeek": 101,
+    "timeMonth": 91,
     "timeYear": 82,
     "dailyMinutesDown": {}
   }
