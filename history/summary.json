@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chemguides.com.ico",
     "slug": "chemguides",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 104,
-    "timeWeek": 272,
-    "timeMonth": 293,
-    "timeYear": 309,
+    "timeDay": 179,
+    "timeWeek": 258,
+    "timeMonth": 285,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2023-09-24": 23
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 130,
-    "timeWeek": 116,
-    "timeMonth": 116,
+    "time": 87,
+    "timeDay": 210,
+    "timeWeek": 133,
+    "timeMonth": 121,
     "timeYear": 86,
     "dailyMinutesDown": {}
   }
