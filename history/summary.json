@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 273,
+    "time": 298,
+    "timeDay": 179,
     "timeWeek": 200,
-    "timeMonth": 284,
+    "timeMonth": 286,
     "timeYear": 307,
-    "dailyMinutesDown": {
-      "2023-09-24": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Francesco Portfolio",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 64,
-    "timeWeek": 126,
-    "timeMonth": 122,
+    "timeDay": 88,
+    "timeWeek": 109,
+    "timeMonth": 123,
     "timeYear": 87,
     "dailyMinutesDown": {}
   }
