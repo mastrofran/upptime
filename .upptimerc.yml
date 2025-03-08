@@ -7,6 +7,8 @@ sites:
     url: https://chemguides.com
   - name: Francesco Portfolio
     url: https://francescomastrocinque.com
+  - name: Recipe App
+    url: https://app.atomsites.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
