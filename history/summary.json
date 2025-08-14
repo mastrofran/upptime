@@ -40,19 +40,19 @@
     "url": "https://app.atomsites.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.atomsites.com.ico",
     "slug": "recipe-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 251,
-    "timeDay": 464,
-    "timeWeek": 308,
+    "time": 252,
+    "timeDay": 363,
+    "timeWeek": 302,
     "timeMonth": 257,
-    "timeYear": 251,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-08-14": 0,
+      "2025-08-14": 11,
       "2025-05-01": 18
     }
   }
