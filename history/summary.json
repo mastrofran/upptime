@@ -22,7 +22,7 @@
     "url": "https://francescomastrocinque.com",
     "icon": "https://icons.duckduckgo.com/ip3/francescomastrocinque.com.ico",
     "slug": "francesco-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 122,
     "timeMonth": 126,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 0
+    }
   },
   {
     "name": "Recipe App",
