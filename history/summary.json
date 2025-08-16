@@ -22,19 +22,19 @@
     "url": "https://francescomastrocinque.com",
     "icon": "https://icons.duckduckgo.com/ip3/francescomastrocinque.com.ico",
     "slug": "francesco-portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 64,
-    "timeWeek": 122,
-    "timeMonth": 126,
+    "timeDay": 112,
+    "timeWeek": 126,
+    "timeMonth": 127,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 6
     }
   },
   {
