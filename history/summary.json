@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 471,
-    "timeWeek": 404,
-    "timeMonth": 307,
-    "timeYear": 325,
+    "time": 313,
+    "timeDay": 436,
+    "timeWeek": 451,
+    "timeMonth": 317,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "francesco-portfolio",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 112,
+    "timeDay": 116,
     "timeWeek": 126,
-    "timeMonth": 127,
+    "timeMonth": 125,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2025-08-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Recipe App",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 310,
-    "timeWeek": 309,
-    "timeMonth": 261,
+    "timeDay": 308,
+    "timeWeek": 322,
+    "timeMonth": 265,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-05-01": 18
