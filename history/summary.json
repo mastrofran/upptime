@@ -4,19 +4,19 @@
     "url": "https://chemguides.com",
     "icon": "https://icons.duckduckgo.com/ip3/chemguides.com.ico",
     "slug": "chemguides",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 633,
-    "timeWeek": 504,
-    "timeMonth": 360,
+    "timeDay": 566,
+    "timeWeek": 496,
+    "timeMonth": 362,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 17
     }
   },
   {
