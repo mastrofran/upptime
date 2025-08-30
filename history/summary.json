@@ -6,14 +6,14 @@
     "slug": "chemguides",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 422,
-    "timeWeek": 412,
-    "timeMonth": 352,
+    "timeDay": 349,
+    "timeWeek": 429,
+    "timeMonth": 359,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2025-08-28": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 70,
-    "timeWeek": 116,
-    "timeMonth": 132,
+    "timeDay": 168,
+    "timeWeek": 120,
+    "timeMonth": 131,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 255,
-    "timeDay": 261,
-    "timeWeek": 279,
+    "time": 254,
+    "timeDay": 188,
+    "timeWeek": 268,
     "timeMonth": 277,
-    "timeYear": 255,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2025-05-01": 18
     }
