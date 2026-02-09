@@ -4,7 +4,7 @@
     "url": "https://chemguides.com",
     "icon": "https://icons.duckduckgo.com/ip3/chemguides.com.ico",
     "slug": "chemguides",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
@@ -16,6 +16,7 @@
     "timeMonth": 202,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2026-02-09": 0,
       "2026-02-05": 58,
       "2025-11-18": 159,
       "2025-08-28": 17
