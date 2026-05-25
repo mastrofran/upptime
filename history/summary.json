@@ -11,15 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 280,
-    "timeDay": 96,
-    "timeWeek": 176,
-    "timeMonth": 181,
-    "timeYear": 258,
+    "timeDay": 212,
+    "timeWeek": 172,
+    "timeMonth": 180,
+    "timeYear": 257,
     "dailyMinutesDown": {
-      "2026-02-09": 62,
-      "2026-02-05": 58,
+      "2025-08-28": 17,
       "2025-11-18": 159,
-      "2025-08-28": 17
+      "2026-02-05": 58,
+      "2026-02-09": 62
     }
   },
   {
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 129,
-    "timeWeek": 137,
-    "timeMonth": 152,
+    "timeDay": 176,
+    "timeWeek": 138,
+    "timeMonth": 150,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -47,23 +47,23 @@
     "slug": "recipe-app",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "93.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.94%",
-    "time": 507,
-    "timeDay": 7166,
-    "timeWeek": 3020,
-    "timeMonth": 1494,
-    "timeYear": 563,
+    "time": 508,
+    "timeDay": 860,
+    "timeWeek": 2997,
+    "timeMonth": 1497,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2026-05-23": 90,
-      "2026-04-20": 41,
-      "2026-02-27": 50,
-      "2026-02-01": 30,
-      "2025-10-31": 19,
+      "2025-09-20": 18,
       "2025-09-21": 86,
-      "2025-09-20": 18
+      "2025-10-31": 19,
+      "2026-02-01": 30,
+      "2026-02-27": 50,
+      "2026-04-20": 41,
+      "2026-05-23": 90
     }
   }
 ]
